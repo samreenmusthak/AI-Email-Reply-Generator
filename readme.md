@@ -59,6 +59,71 @@ View the detected intent and explanation
 Select different tones (Formal, Friendly, Persuasive)
 Edit the generated reply as needed in the editable text box
 Copy the final version using the "Copy Reply" button
+
+## Sample Test Emails
+
+### Inquiry Email
+Subject: Product Information Request
+
+Hi Team,
+
+I came across your AI solutions on your website and I'm quite impressed. Could you please send me more information about your pricing plans and feature details?
+
+Also, I'd like to know about the implementation process and timeline.
+
+Looking forward to your response.
+
+Best regards,
+Emily Chen
+
+
+
+### Complaint Email
+Subject: Poor Customer Service Experience
+
+Dear Support Team,
+
+I'm writing to express my dissatisfaction with the service I received yesterday. The product I purchased last week stopped working, and when I contacted your support, I was put on hold for 30 minutes before being disconnected.
+
+This is completely unacceptable and I expect a prompt resolution and refund.
+
+Sincerely,
+Michael Rodriguez
+
+
+
+### Offer Email
+Subject: Partnership Opportunity
+
+Hello,
+
+I'm reaching out from TechSolutions Inc. We've been following your company's growth in the AI space and are impressed with your innovative approach.
+
+We'd like to explore a potential partnership where we could integrate your AI technology with our platform. This collaboration could benefit both companies by expanding our market reach.
+
+Would you be available for a call next week to discuss this further?
+
+Best regards,
+Sarah Johnson
+Business Development Manager
+TechSolutions Inc.
+
+
+
+### Information Email
+Subject: System Update Notification
+
+Hello Team,
+
+This is to inform you about our scheduled system maintenance this weekend. The maintenance window will be from Saturday 2:00 AM to Sunday 6:00 AM EST.
+
+During this period, our services may experience temporary interruptions. We apologize for any inconvenience and appreciate your understanding.
+
+Thank you,
+IT Department
+InnovateCorp
+
+
 Project Structure
 
 AI-Email-Reply-Generator/
